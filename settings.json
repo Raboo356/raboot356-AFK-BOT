@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fenixsnw.aternos.me",
+    "ip": "fenixsnw.aternos.me:50035",
     "port": 50035,
     "version": "1.21.1"
   },
