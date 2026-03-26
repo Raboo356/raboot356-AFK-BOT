@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fenixsnw.aternos.me:50035",
+    "ip": "fenixsnw.aternos.me",
     "port": 50035,
     "version": "1.21.1"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "raboot356"
+      "password": "Slobos"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Suscribete a Raboot356",
-        "No te olvides dejar tu like",
-        "Este es un server anarquico puedes usar hacks"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
